@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tbzero/static/css/main.e98d6a86.css",
+    "main.js": "/tbzero/static/js/main.b43bbc55.js",
+    "static/js/787.2b26dc77.chunk.js": "/tbzero/static/js/787.2b26dc77.chunk.js",
+    "index.html": "/tbzero/index.html",
+    "main.e98d6a86.css.map": "/tbzero/static/css/main.e98d6a86.css.map",
+    "main.b43bbc55.js.map": "/tbzero/static/js/main.b43bbc55.js.map",
+    "787.2b26dc77.chunk.js.map": "/tbzero/static/js/787.2b26dc77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98d6a86.css",
+    "static/js/main.b43bbc55.js"
+  ]
+}
